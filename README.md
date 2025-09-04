@@ -33,7 +33,7 @@ Despite the progress so far, several essential features are pending:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Saedbhati/react-video-editor.git
+git clone https://github.com/unrealayush/react-video-editor.git
 ```
 
 2. Navigate to the project directory:
